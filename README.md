@@ -76,7 +76,8 @@ Résultat ajouté dans `analyse_info.txt`
 
 ### 🔐 Installation du Certificat Proxy
 
-![Proxy Certificate](https://github.com/user-attachments/assets/378078ee-ca9a-4154-bc14-9611619ee1c6)
+<img width="721" height="400" alt="cert" src="https://github.com/user-attachments/assets/223c7305-d8e6-4611-be1f-f2580324b77d" />
+
 
 - **Délivré à :** YaazhiniProxy
 - **Validité :** 20/03/2026 → 22/06/2028
